@@ -9,10 +9,12 @@ public class Ataque : MonoBehaviour
     [SerializeField] private float radioGolpe;
     private Animator animator;
     private bool golpe = false;
+    private AudioSource sonidoGolpe;
 
     private void Start()
     {
         animator = GetComponentInParent<Animator>();
+        sonidoGolpe = base.GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -31,6 +33,7 @@ public class Ataque : MonoBehaviour
 
     private IEnumerator Golpe()
     {
+        sonidoGolpe.Play();
         animator.SetTrigger("Punch");
         yield return new WaitForSeconds(0.42f);
         Collider2D[] objetos = Physics2D.OverlapCircleAll(ControlAtaque.position,radioGolpe);

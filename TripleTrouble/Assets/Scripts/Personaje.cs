@@ -13,6 +13,8 @@ public class Personaje : MonoBehaviour
     Rigidbody2D rb;
     Animator animator;
     private float velocidadOriginal;
+    [SerializeField] private Transform PosicionCola; // Nuevo
+    public bool seguro = true;                              // Nuevo
 
     private float escalaGravedad;
 
@@ -26,6 +28,7 @@ public class Personaje : MonoBehaviour
         velocidadOriginal = speed;
         rb = GetComponent<Rigidbody2D>();
         escalaGravedad = rb.gravityScale;
+        animator.SetBool("segurito", true);     // Nuevo
     }
 
     // Update is called once per frame
@@ -33,16 +36,15 @@ public class Personaje : MonoBehaviour
     {
         moveInput.x = Input.GetAxisRaw("Horizontal");
         rb.velocity = new Vector2(moveInput.x * speed,rb.velocity.y);
-        
 
         if (grounded) {
             animator.SetFloat("Run", Mathf.Abs(moveInput.x));
         }
 
-        if (moveInput.x > 0)
+        if (moveInput.x > 0 && seguro)      // Nuevo
         {
             transform.localScale = new Vector3(1, 1, 1);
-        }else if (moveInput.x < 0)
+        }else if (moveInput.x < 0 && seguro)        // Nuevo
         {
             transform.localScale = new Vector3(-1,1, 1);
         }
@@ -75,10 +77,17 @@ public class Personaje : MonoBehaviour
 
     }
 
+    public Vector3 getPosicionCola()        // Nuevo Inicia
+    {
+        return PosicionCola.position;
+    }
+                                           // Nuevo Fin
     public void Congelado()
     {
+        animator.SetBool("segurito", false);    // Nuevo
         if (speed > 0)
         {
+            //seguro = false;                     // Nuevo
             speed = 0;
             StartCoroutine("Esperar");
         }
@@ -88,13 +97,20 @@ public class Personaje : MonoBehaviour
 
     public void Descongelado()
     {
+        animator.SetBool("segurito", true);     // Nuevo
+        seguro = true;                          //Nuevo
         speed = velocidadOriginal;
     }
 
     IEnumerator Esperar()
     {
-        yield return new WaitForSeconds(2);
+        yield return new WaitForSeconds(1.3f);      // NUEVO 
         Descongelado();
+    }
+
+    public void setSeguro() //Nuevo
+    {
+        seguro = false;
     }
 
 }

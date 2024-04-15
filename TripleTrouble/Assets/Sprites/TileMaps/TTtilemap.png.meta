@@ -1,0 +1,1192 @@
+fileFormatVersion: 2
+guid: 10c25ef95eff7be468af6b2aa8810ccb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TTtilemap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 764.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af24319a38e020b4991eeafbfccabfcd
+      internalID: 396922587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 764.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcb83e1d0daa1249a5c6569aaf24050
+      internalID: 318871026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 764.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555cd1750698e894c82c7c33d02ee103
+      internalID: 912455856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 764.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a4b04ec007bd14ba997146ecc7dccb
+      internalID: 763770393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_4
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 764.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb048eaf28ae5c943a17f7991e9797d4
+      internalID: -1818614160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_5
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 764.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e92ad29d432f04686e04d548e61028
+      internalID: 1906456668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_6
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 764.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4500c71b0b569f44bbeeda1d657bab95
+      internalID: -159002747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 637.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d259688ce1ea84c97a0776cebc292b
+      internalID: 2087944336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_8
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 637.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac9c7a875ace8a4dad4c3433df2e56a
+      internalID: -1806605430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_9
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 637.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1228faa7b16df74fb95d3ce728c397d
+      internalID: -958877396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_10
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 637.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a603dcf543fc34dab6f0cafd64a48d
+      internalID: 978431572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_11
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 637.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f19a5b7c697154089d6b4cc06755b4
+      internalID: 337498703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_12
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 637.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6c9090b750c9f49a188bf16033d78c
+      internalID: 925423953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_13
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 637.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d9f611d57d75c4a87d3c585dab355f
+      internalID: -2000719164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba15f5255ca611143b751b0cff4e7612
+      internalID: 366657122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 510.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7079cdb2510595740a49ff87151905be
+      internalID: 1222164111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_16
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 510.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a526b9df72d30a44842d84d88f52428
+      internalID: -1777919449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_17
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 510.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b928caafcbd2d5b42bc1f337c631b530
+      internalID: -1677713187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_18
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 510.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c359f141b259994b8cce395031e8c0d
+      internalID: 520379442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_19
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 510.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc505530ee407e24881b02998e7aa3b1
+      internalID: 1245383945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_20
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 510.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24501b3fe42f0de4a8e2c0e88458968e
+      internalID: 844375934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93944804e6495a642979df030b24a4a5
+      internalID: -1261534519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_22
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 383.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b352c5a624e87642812c7867bd17834
+      internalID: -323725789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_23
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 383.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd4841c245222b45865ea80f0bb712e
+      internalID: -530330760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_24
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 383.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edae34a3af791f84aab831f9d34821ae
+      internalID: -1783041581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_25
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 383.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcf4253b7a61774ca80b1073a7a0009
+      internalID: 1780189412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_26
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 383.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99b8740ff63a874bbd8830e2a931943
+      internalID: 1877967869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_27
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 383.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f826d746f1febf349899b64b0cf62261
+      internalID: 305613857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86219ea7bf35cb04eb9e105b8ea70711
+      internalID: 1447668093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_29
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 256.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6584aad948be54e9d5436a1e380114
+      internalID: 20168918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_30
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 256.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7de2e3bcca913458901b5d00d10dab
+      internalID: -1798469466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_31
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 256.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91be7a855cd7d994e8c5112dac8b2ac7
+      internalID: 1575803132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_32
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 256.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f621a5749d8ccd439f8ae21e897162e
+      internalID: -1546476621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_33
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 256.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0f5af3c0522c34599d347fcafce113
+      internalID: -997768422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_34
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 256.5714
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b84258789767034d9a5b7f3b0208220
+      internalID: 1833362774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129.57143
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb1f17fb666d3944a33e15ba55a4cae
+      internalID: -1664147729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_36
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 129.57143
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660831d174493cc48b5beacd22684c02
+      internalID: -1930657749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_37
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 129.57143
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455beee61dba8c942944977ca7bf2b2d
+      internalID: -1196912291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_38
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 129.57143
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c88f4203be88664b928215fcf4bc8b5
+      internalID: -961153755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_39
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 129.57143
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d5a9a83a0adf54a9a33355bb640ac7
+      internalID: 1179792179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_40
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 129.57143
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1845a24be576f41883e36451b981cb
+      internalID: -1990511502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_41
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 129.57143
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63025a76bc11874b8431a5257ef42e9
+      internalID: 439281370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.5714264
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c766b2f2e088a42b94d557b2b69429
+      internalID: 844265374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_43
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2.5714264
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d407f1ec576324c82cb2fcf9341ce7
+      internalID: -1433495411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_44
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2.5714264
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b266c6b4f6b874b8a3c005174d9013
+      internalID: 676074877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_45
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 2.5714264
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771ad39a0489c9844ad41068215b6c4d
+      internalID: -1383637251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_46
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 2.5714264
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e7e74c27915f44b90a0518d5094167
+      internalID: 506421679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_47
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 2.5714264
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4480dde552d92a4b8dbe840c35aefb5
+      internalID: -77043172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTtilemap_48
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 2.5714264
+        width: 127.42857
+        height: 127.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dc320e9759f2f48849a9f2ca218e68
+      internalID: -1370630173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TTtilemap_0: 396922587
+      TTtilemap_1: 318871026
+      TTtilemap_10: 978431572
+      TTtilemap_11: 337498703
+      TTtilemap_12: 925423953
+      TTtilemap_13: -2000719164
+      TTtilemap_14: 366657122
+      TTtilemap_15: 1222164111
+      TTtilemap_16: -1777919449
+      TTtilemap_17: -1677713187
+      TTtilemap_18: 520379442
+      TTtilemap_19: 1245383945
+      TTtilemap_2: 912455856
+      TTtilemap_20: 844375934
+      TTtilemap_21: -1261534519
+      TTtilemap_22: -323725789
+      TTtilemap_23: -530330760
+      TTtilemap_24: -1783041581
+      TTtilemap_25: 1780189412
+      TTtilemap_26: 1877967869
+      TTtilemap_27: 305613857
+      TTtilemap_28: 1447668093
+      TTtilemap_29: 20168918
+      TTtilemap_3: 763770393
+      TTtilemap_30: -1798469466
+      TTtilemap_31: 1575803132
+      TTtilemap_32: -1546476621
+      TTtilemap_33: -997768422
+      TTtilemap_34: 1833362774
+      TTtilemap_35: -1664147729
+      TTtilemap_36: -1930657749
+      TTtilemap_37: -1196912291
+      TTtilemap_38: -961153755
+      TTtilemap_39: 1179792179
+      TTtilemap_4: -1818614160
+      TTtilemap_40: -1990511502
+      TTtilemap_41: 439281370
+      TTtilemap_42: 844265374
+      TTtilemap_43: -1433495411
+      TTtilemap_44: 676074877
+      TTtilemap_45: -1383637251
+      TTtilemap_46: 506421679
+      TTtilemap_47: -77043172
+      TTtilemap_48: -1370630173
+      TTtilemap_5: 1906456668
+      TTtilemap_6: -159002747
+      TTtilemap_7: 2087944336
+      TTtilemap_8: -1806605430
+      TTtilemap_9: -958877396
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

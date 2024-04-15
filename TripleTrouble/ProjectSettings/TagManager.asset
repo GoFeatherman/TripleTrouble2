@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Pared
+  - PuntoDeControl
+  - Muerte
   layers:
   - Default
   - TransparentFX
@@ -13,7 +15,7 @@ TagManager:
   - Water
   - UI
   - Platform
-  - 
+  - Fondo
   - 
   - 
   - 
@@ -41,4 +43,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 555207769
     locked: 0
